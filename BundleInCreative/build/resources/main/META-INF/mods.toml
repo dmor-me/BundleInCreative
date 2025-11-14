@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+issueTrackerURL=""
+
+[[mods]]
+modId="bundleincreative"
+version="1.0.0"
+displayName="Bundle In Creative"
+displayURL=""
+credits="Created for making Bundle visible in creative tabs"
+authors="Dmor"
+description='''Adds the vanilla Bundle item to the Tools & Utilities creative tab.'''
+
+[[dependencies.bundleincreative]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.bundleincreative]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"
