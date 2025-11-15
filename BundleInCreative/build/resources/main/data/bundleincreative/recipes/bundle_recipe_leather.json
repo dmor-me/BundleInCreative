@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "conditions": [
+    {
+      "type": "bundleincreative:enable_recipe",
+      "recipe_type": "leather"
+    }
+  ],
+  "pattern": [
+    " S ",
+    " L ",
+    "   "
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:string"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "minecraft:bundle"
+  }
+}

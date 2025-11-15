@@ -1,14 +1,14 @@
 modLoader="javafml"
 loaderVersion="[47,)"
 license="MIT"
-issueTrackerURL=""
+issueTrackerURL="https://github.com/dmor-me/BundleInCreative/issues"
 
 [[mods]]
 modId="bundleincreative"
-version="1.0.0"
+version="1.1.0"
 displayName="Bundle In Creative"
-displayURL=""
-credits="Created for making Bundle visible in creative tabs"
+displayURL="https://github.com/dmor-me/BundleInCreative"
+credits="Source & issue tracker: https://github.com/dmor-me/BundleInCreative/issues"
 authors="Dmor"
 description='''Adds the vanilla Bundle item to the Tools & Utilities creative tab.'''
 
